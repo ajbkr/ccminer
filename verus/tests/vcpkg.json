@@ -1,0 +1,8 @@
+{
+  "name": "ccminer-tests",
+  "version-string": "0.1",
+  "description": "Unit tests for ccminer's VerusHash algorithm",
+  "dependencies": [
+    "catch2"
+  ]
+}
